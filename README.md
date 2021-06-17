@@ -8,3 +8,5 @@ then another bump and followed by anothe linear growth or iii) a constant linear
 
 
 By analyzing the time series data, in this Python notebook I explore whether 1) there is a correlation between the subscribers' growth rate on LinkedIn for a company and the employees count of those companies. 2) Do specific industries, for example banking, exprience a different statistics in terms of their emplyee's count.
+
+Later on I will use the time series forecaster "prophet" ( made by Facebook ) to predict the growth of companies. 
